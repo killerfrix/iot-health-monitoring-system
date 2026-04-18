@@ -52,3 +52,40 @@ Client Apps (Kotlin / Web)
 ```bash
 npm install
 node server.js
+```
+
+Database
+
+```bash
+Create PostgreSQL database:
+
+CREATE DATABASE sensor_data;
+```
+
+Tables:
+
+```bash
+CREATE TABLE measurements (
+  id SERIAL PRIMARY KEY,
+  pulse INT,
+  spo2 INT,
+  created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
+
+CREATE TABLE fall_records (
+  id SERIAL PRIMARY KEY,
+  fall INT,
+  detected_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
+```
+
+📊 Example Messages
+{ "beat": 1 }
+{ "spo2": 97 }
+{ "fall": 1 }
+{ "final_bpm": 72, "final_spo2": 98 }
+
+
+👨‍💻 Author
+
+Jose Torres
