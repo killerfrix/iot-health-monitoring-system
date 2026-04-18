@@ -88,6 +88,15 @@ CREATE TABLE fall_records (
 <img width="720" height="1600" alt="WhatsApp Image 2026-04-18 at 12 15 11 AM" src="https://github.com/user-attachments/assets/8765745f-40ba-4a58-b496-56bacdf6581b" />
 <img width="1600" height="708" alt="WhatsApp Image 2026-04-18 at 12 18 47 AM" src="https://github.com/user-attachments/assets/c2a941a9-485b-46ef-a5fa-1f9b57fa80fe" />
 
+## 🧩 Hardware Design
+
+A custom PCB was designed to integrate all sensors and microcontroller into a compact prototype.
+
+<img width="896" height="933" alt="WhatsApp Image 2026-04-18 at 12 21 55 AM (2)" src="https://github.com/user-attachments/assets/0ede2627-4127-4ebe-9a79-d0f7b2fc60ba" />
+<img width="857" height="546" alt="WhatsApp Image 2026-04-18 at 12 21 55 AM (1)" src="https://github.com/user-attachments/assets/cd9196e9-66a3-434e-b541-44103c12d730" />
+<img width="887" height="627" alt="WhatsApp Image 2026-04-18 at 12 21 55 AM" src="https://github.com/user-attachments/assets/1540438a-494c-4064-86f4-5a6e524d88b1" />
+
+
 
 👨‍💻 Author
 
