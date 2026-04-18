@@ -86,9 +86,7 @@ CREATE TABLE fall_records (
 { "final_bpm": 78, "final_spo2": 97 }
 
 <img width="720" height="1600" alt="WhatsApp Image 2026-04-18 at 12 15 11 AM" src="https://github.com/user-attachments/assets/8765745f-40ba-4a58-b496-56bacdf6581b" />
-
-
-
+<img width="1600" height="708" alt="WhatsApp Image 2026-04-18 at 12 18 47 AM" src="https://github.com/user-attachments/assets/c2a941a9-485b-46ef-a5fa-1f9b57fa80fe" />
 
 
 👨‍💻 Author
