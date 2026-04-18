@@ -81,9 +81,14 @@ CREATE TABLE fall_records (
 
 📊 Example Messages
 { "beat": 1 }
-{ "spo2": 97 }
-{ "fall": 1 }
-{ "final_bpm": 72, "final_spo2": 98 }
+{ "spo2": 86 }
+{ "fall": 0 }
+{ "final_bpm": 78, "final_spo2": 97 }
+
+<img width="720" height="1600" alt="WhatsApp Image 2026-04-18 at 12 15 11 AM" src="https://github.com/user-attachments/assets/8765745f-40ba-4a58-b496-56bacdf6581b" />
+
+
+
 
 
 👨‍💻 Author
